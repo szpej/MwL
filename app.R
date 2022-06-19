@@ -4,7 +4,7 @@ library(shiny)
 library(tidyverse)
 library(sf)
 
-dane <- read_csv("/home/pawel/Nauka_R/MwL/dane.csv")
+dane <- read_csv("dane.csv")
 dane_woj <- dane[is.na(dane$Liczba_miast),1]
 dane_type <-  dane[!(is.na(dane$Liczba_miast)),1]
 dane_dane <- dane[!(is.na(dane$Liczba_miast)),2]
