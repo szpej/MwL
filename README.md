@@ -13,11 +13,11 @@ What is currently working:
 
 What is currently working: 
 
-1. Input "Wielość" - no such data in bdl 
+1. Input "Wielkość" - no such data in bdl 
 
 What are we going to add: 
 
-1. Add modules 
+1. modules 
 
 What we don't plan to add: 
 1. Integration with package bdl
