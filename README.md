@@ -1,8 +1,17 @@
 # MwL
 
-Do zrobienia: /
-1. Zakładki: (1) wybór danych (2) mapa + tabelka (3) porówanie z innym rokiem (wymaga przebudowy reactive chain)
-2. poziom powiatów - observeevent na mapie?
-3. downoload nazwa: cecha + rok
-4. wykres jako funkcja + dodanie zmiany kolorów i tym podobnych rzeczy
-5. integracja z bdl: format danych (jest), ograniczenie liczby zapytań.
+Application for geomarketing classes. \
+What is currently working: \
+1. Isolate getting data - reactivity on button "Pobierz"
+2. Update year range based on values in data
+3. "Porównaj z rokiem" work only if checkbox above is marked
+4. Download data for choosen year
+5. Generate map with 5 different color
+6. Generate table
+7. Generate map comparison \
+What is currently working:: \
+1. Input "Wielość" - no such data in bdl \
+What are we going to add: \
+1. Add modules \
+What we don't plan to add: \
+1. Integration with package bdl
