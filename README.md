@@ -11,7 +11,7 @@ What is currently working:
 6. Generate table
 7. Generate map comparison 
 
-What is currently working: 
+What is currently not working: 
 
 1. Input "Wielkość" - no such data in bdl 
 
