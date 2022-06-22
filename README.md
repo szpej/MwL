@@ -8,7 +8,7 @@ What is currently working: \
 4. Download data for choosen year
 5. Generate map with 5 different color
 6. Generate table
-7. Generate map comparison 
+7. Generate map comparison \
 What is currently working: \
 1. Input "Wielość" - no such data in bdl 
 What are we going to add: \
